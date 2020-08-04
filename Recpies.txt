@@ -6,3 +6,6 @@ burger
 
 beans
 suger
+
+pizza
+ice cream
