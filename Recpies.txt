@@ -8,11 +8,17 @@ beans
 suger
 
 
+
 pizza
 ice cream
 tea 
 
-done
 
+
+
+
+coffee
+done
 thank you
-thanks
+
+
